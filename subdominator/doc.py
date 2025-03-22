@@ -164,7 +164,7 @@ Subdominator is ready to use immediately after installation. However, to utilize
 - **VirusTotal** → [virustotal.com](https://virustotal.com/)  
 - **WaybackArchive** → [archive.org/wayback](https://archive.org/wayback)  
 - **WhoisXML** → [whoisxmlapi.com](https://whoisxmlapi.com)  
-- **ZoomEyeAPI** → [docs.projectdiscovery.io](https://docs.projectdiscovery.io/tools/subfinder/install#zoomeye-api)  
+- **ZoomEyeAPI** → [www.zoomeye.hk](https://www.zoomeye.hk/)  
 
 ---
 
